@@ -1,0 +1,7 @@
+    1  cd  518/
+    2  ls 
+    3  rm *.txt\
+    4  rm *.txt
+    5  cd week07/
+    6  ls
+    7  cd UI-APorter/
